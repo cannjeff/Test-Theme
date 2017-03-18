@@ -1,0 +1,13 @@
+/*
+ Theme Name:   Basic Child Theme
+ Description:  A child theme of the Basic WordPress theme
+ Author:       Jeffrey Cann
+ Template:     basic
+ Version:      1.0.0
+*/
+
+@import "variables";
+
+#logo {
+  color: $theme-color-5;
+}

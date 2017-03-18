@@ -1,0 +1,16 @@
+{
+  "name": "basic-child",
+  "version": "1.0.0",
+  "description": "Child Theme based on the Basic Wordpress theme",
+  "main": "index.js",
+  "author": "Jeffrey Cann",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
