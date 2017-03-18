@@ -11,3 +11,12 @@
 #logo {
   color: $theme-color-5;
 }
+.top-menu,
+#mobile-menu
+.more-link {
+  background: $theme-color-4;
+}
+input[type=submit],
+.submit {
+  background-color: $theme-color-4;
+}
